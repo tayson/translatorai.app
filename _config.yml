@@ -103,8 +103,8 @@ feature_text_color                        : "#838388"
 feature_icons_foreground_color            : "#838388"
 feature_icons_background_color            : "#f0f0f5"
 
-social_icons_foreground_color             : "#ffffff"
-social_icons_background_color             : "#000000"
+social_icons_foreground_color             : "#838388"
+social_icons_background_color             : "#f0f0f5"
 
 footer_text_color                         : "#838388"
 
