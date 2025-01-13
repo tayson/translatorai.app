@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms and Conditions
+title: Terms
 include_in_header: false
 ---
 
@@ -48,27 +48,23 @@ You may not upload, input, or share any content through the App that:
 
 * Harms the App’s operation or other users’ experience.
 
-## 3. Subscriptions and In-App Purchases
+## 3. In-App Purchases
 
-### 3.1. In-App Purchases
+### 3.1. Availability of In-App Purchases
 
-TranslatorAI offers in-app purchases, including subscriptions, to unlock additional features and functionality. By making an in-app purchase, you agree to pay the specified price displayed at the time of purchase.
+The App may offer additional features, content, or services through in-app purchases. By making an in-app purchase, you agree to pay the price displayed at the time of purchase.
 
-### 3.2. Subscription Plans
+### 3.2. Payment
 
-We offer the following subscription plans:
+All payments for in-app purchases are processed through your Apple ID account and are subject to Apple’s terms and conditions. TranslatorAI does not collect or store your payment information.
 
-* **Weekly Subscription:** Renewed automatically every week unless canceled.
+### 3.3. Refund Policy
 
-* **Yearly Subscription:** Renewed automatically every year unless canceled.
+Refunds for in-app purchases are governed by Apple’s policies. TranslatorAI cannot process refunds directly. If you believe you are eligible for a refund, please contact Apple Support.
 
-### 3.3. Automatic Renewal
+### 3.4. Usage of Purchased Content
 
-Subscriptions are set to renew automatically at the end of the subscription period. You will be charged through your Apple ID account unless you cancel the subscription at least 24 hours before the renewal date.
-
-### 3.4. Cancellation and Refunds
-
-You can manage or cancel your subscriptions through your device’s settings. Refunds for subscriptions and in-app purchases are governed by Apple’s policies. TranslatorAI cannot process refunds directly.
+In-app purchases grant you a limited license to use the purchased content or features within the App. These purchases are non-transferable and non-refundable except as required by applicable law.
 
 ## 4. Intellectual Property
 
