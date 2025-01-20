@@ -26,6 +26,8 @@ We automatically collect non-personal information, including but not limited to:
 
 * Language preferences and location data (if enabled).
 
+* App crash reports and error logs
+
 ### 1.3. Translations and Input Data
 
 The text you input for translation ("Translation Data") is processed in real time and not stored on our servers unless explicitly stated. Translation Data may be sent to third-party services (e.g., AI language processing services) to perform translations.
